@@ -1,6 +1,6 @@
 <h1 align="center">reddit 1.0.0 (OAuth2)</h1>
 
-### @jujuadams
+### [Juju Adams](https://www.jujuadams.com/)
 
 Library to interface with reddit's REST API. Uses reddit's standard authorisation flow. Beyond faffing around with reddit's API, this codebase could be used to implement an account system for your game.
 
